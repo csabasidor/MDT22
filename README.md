@@ -6,7 +6,7 @@
 3. Následne teamleader skupiny "sharne" folder <b>MDT22</b>.
 4. Každý si skontroluje či má funkčný Microsoft Word, Microsoft Excel ak nemá postupuje podľa [pokynov ÚVT](https://uvt.tuke.sk/wps/portal/uv/software/microsoft-office365).
 5. Každý si stiahne a nainštaluje [QGIS](https://www.qgis.org/en/site/forusers/download.html).
-
+6. Každý si stiahne a nainštaluje písmo [Typewolf Roboto](https://www.typewolf.com/assets/fonts/roboto.zip).
 
 
 <h4>DEADLINE 05.10.2022 23:59:59 CET</h4>
