@@ -9,7 +9,9 @@
 6. Každý si stiahne a nainštaluje písmo [Typewolf Roboto](https://www.typewolf.com/assets/fonts/roboto.zip).
 
 
-<h4>DEADLINE 05.10.2022 23:59:59 CET</h4>
+<h4>DEADLINE 04.10.2022 23:59:59 CET</h4>
+
+
 
 
 
