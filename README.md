@@ -60,6 +60,9 @@ Dekanské voľno
  ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/setCRSKrovak.png?raw=true)  
      
 6. Hromadná grafická úprava vektorovej vrstvy (hranice OOCR, pozor CASE SENSITIVE)  
-    6a. Otvoríte súbor [addColorFromAtributeTable.txt](https://raw.githubusercontent.com/csabasidor/MDT22/main/podklady/addColorFromAtributeTable.txt), stlačíte "Ctrl+a" a následne "Ctrl+c"
+    6a. Otvoríte súbor [addColorFromAtributeTable.txt](https://raw.githubusercontent.com/csabasidor/MDT22/main/podklady/addColorFromAtributeTable.txt), stlačíte "Ctrl+a" a následne "Ctrl+c".  
+    6b. Vo Vašom QGis projekte sa uistite, že z vektorových vrstiev je "skDmosMemberBoundaries" zapnutá (Viď Obr. HINT 1)  stlačíte "Ctrl+Alt+p".  
+    6c. Kliknete do prikázoveho riadku (Viď Obr. STEP 1), stlačíte "Ctrl+v" a počkáte kým sa vykonajú príkazy (Viď Obr. HINT 2: Zmena kategorizacie, HINT 3: Zmena farebnosti vrstvy).  
 
+![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/setColorsViaPythonConsole.png?raw=true)  
 
