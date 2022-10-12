@@ -82,4 +82,11 @@ Dekanské voľno
 ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/AddLabelsCondtional.png?raw=true) 
 
 8. Pridanie a rozšírenie vektorových vrstievt typu .gpk (Regionalizácia CR, okresy SR, kraj SR)  
-    8a. Coming Soon
+    8a. Z geoprotálu (Geodetický a kartografický ústav Bratislava, 2021) si stiahnete [zip s administratívnym usporiadaním Slovenskej republiky](https://www.geoportal.sk/files/zbgis/na_stiahnutie/gpkg/ah_gpkg_0.zip).  
+    8b. Stiahnutý ah_gpkg_0.zip otvoríte a jeho obsah súbor "USJ_hranice_0.gpkg" rozbalíte do priečinka, v ktorom udržiavate vstupné údaje (NIE NA GOOGLE DRIVE).  
+    8c. Vo svojom Qgis projekte ...Coming Soon  
+    
+    ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/LoadGpkg.png?raw=true) 
+
+    
+    
