@@ -81,4 +81,5 @@ Dekanské voľno
     
 ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/AddLabelsCondtional.png?raw=true) 
 
-
+8. Pridanie a rozšírenie vektorových vrstievt typu .gpk (Regionalizácia CR, okresy SR, kraj SR)  
+    8a. 
