@@ -12,8 +12,27 @@
 <h4>DEADLINE 04.10.2022 23:59:59 CET</h4>
 
 ## CHALLENGE WEEK 2 (5. - 6.10.2022) - Home Office
+Dekanské voľno
 
 
+
+## CHALLENGE WEEK 3 (12 - 13.10.2022)
+1. Priečinku [data](https://github.com/csabasidor/MDT22/tree/main/data) si stiahnite súbory:
+    a. [skDmosMemberBoundaries.geojson](https://github.com/csabasidor/MDT22/raw/main/data/skDmosMemberBoundaries.geojson)
+ 2. Otvorte u seba QGis, vytvorte nový projekt pod nazvom 0_dmo_boundaries_id Vasej OOCR (e.g. 0_dmo_boundaries_17).
+ 3. Pridanie podkladovej mapy OpenStreetMap:
+      
+     3a. V QGise stlačte "Ctrl+Shift+D".  
+     3b. V kontextovom okienku kliknite v ľavom zozname na položku "XYZ" (Viď Obr. STEP 1).  
+     3c. Kliknite na tlačidlo "New" (Viď obr STEP 2).  
+     3d. Do kolónky Name napíšte "OpenStreetMap" (Viď obr. STEP 3).  
+     3e. Do kolóky URL skopírujte url adresu bez "" -> "https://a.tile.openstreetmap.org/{z}/{x}/{y}.png" (Viď obr. STEP 4).  
+     3f. Kliknite na tlačidlo "Ok" (Viď obr. STEP 5).  
+     3g. Kliknite na tlačidlo "Add" (Viď obr. STEP 6).  
+     3h. Vypnite kontextové okienko (Viď obr. STEP 7).  
+      
+    
+    
 
 
 
