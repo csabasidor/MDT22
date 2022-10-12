@@ -19,6 +19,7 @@ Dekanské voľno
 ## CHALLENGE WEEK 3 (12. - 13.10.2022)
 1. Z priečinka [data](https://github.com/csabasidor/MDT22/tree/main/data) si stiahnite súbory:
     a. [skDmosMemberBoundaries.geojson](https://github.com/csabasidor/MDT22/raw/main/data/skDmosMemberBoundaries.geojson)
+    b. 
 2. Otvorte u seba QGis, vytvorte nový projekt pod nazvom 0_dmo_boundaries_id Vasej OOCR (e.g. 0_dmo_boundaries_17).
 3. Pridanie podkladovej mapy OpenStreetMap:  
       
@@ -43,7 +44,22 @@ Dekanské voľno
      4f. Kliknite na tlačidlo "Close" (Viď Obr. STEP 5).  
      
      ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/AddVectorlayer.png?raw=true)  
- 
-
+     
+ 5. Potrebná úprava CRS vektorovej vrstvy (hranice OOCR)  
+     5a. V zozname zobrazených vrstiev (vľavo), kliknite pravým tlačítkom myši na názov vrstvy "skDmosMemberBoundaries" (Viď Obr. STEP 1).  
+     5b. Kliknite na "Properties" (Viď Obr. STEP 2).  
+     5c. V kontextovom okienku, na ľavej lište kliknite na tlačidlo "Source" (Ozubené koliesko s kľúčom -> Viď Obr. STEP 3).  
+     5d. Kliknite vpravo na tlačidlo "Select CRS" (Zemeguĺa s klobúkom -> Viď Obr. STEP 4).  
+     5e. Do kolónky "Filter" napíšte hodnotu 102067 (Viď Obr. STEP 5).  
+     5f. Kliknite na požadované CRS (Viď Obr. STEP 6).  
+     5g. Kliknite na tlačidlo "Ok" (Viď Obr. STEP 7).  
+     5h. Kliknite na tlačidlo "Apply" (Viď Obr. STEP 8).   
+     5i. Kliknite na tlačidlo "Ok" (Viď Obr. STEP 9).  
+     5k. Opakujte krok 5b a kliknite na položku "Zoom to Layer" (Viď Obr. STEP 10).  
+     
+ ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/setCRSKrovak.png?raw=true)  
+     
+6. Hromadná grafická úprava vektorovej vrstvy (hranice OOCR, pozor CASE SENSITIVE)  
+    6. 
 
 
