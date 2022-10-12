@@ -30,9 +30,19 @@ Dekanské voľno
      3f. Kliknite na tlačidlo "Ok" (Viď obr. STEP 5).  
      3g. Kliknite na tlačidlo "Add" (Viď obr. STEP 6).  
      3h. Vypnite kontextové okienko (Viď obr. STEP 7).  
-      
-    
-   ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/AddOpenStreetMapBaseMap.png?raw=true)
+         
+   ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/AddOpenStreetMapBaseMap.png?raw=true)  
+   
+  4. Pridanie hraníc OOCR (vektorovej vrstvy):  
+     4a. V QGise stlačte "Ctrl+Shift+V".  
+     4b. Uistite sa, že ste v časti Vector (Viď Obr. STEP 1).  
+     4c. Klinkinte na tlačidlo s "...", nachádzajúce sa vpravo od prázdnej kolonky (Viď Obr. STEP 2).  
+     4d. Vyberte Vami uložený súbor skDmosMemberBoundaries.geojson (Viď Obr. STEP 3).  
+     4e. Kliknite na tlačidlo "Add"(Viď Obr. STEP 4).  
+     4f. Kliknite na tlačidlo "Close" (Viď Obr. STEP 5).  
+     
+     ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/AddVectorlayer.png?raw=true)  
+ 
 
 
 
