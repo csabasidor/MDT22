@@ -64,5 +64,21 @@ Dekanské voľno
     6b. Vo Vašom QGis projekte sa uistite, že z vektorových vrstiev je "skDmosMemberBoundaries" zapnutá (Viď Obr. HINT 1)  stlačíte "Ctrl+Alt+p".  
     6c. Kliknete do prikázoveho riadku (Viď Obr. STEP 1), stlačíte "Ctrl+v" a počkáte kým sa vykonajú príkazy (Viď Obr. HINT 2: Zmena kategorizacie, HINT 3: Zmena farebnosti vrstvy).  
 
-![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/SetColorsViaPythonConsole.png?raw=true)  
+![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/SetColorsViaPythonConsole.png?raw=true) 
+
+7. Pridanie podmienených popisiek vektorovej vrstvy (hranice OOCR)  
+    7a. V zozname zobrazených vrstiev (vľavo), kliknite pravým tlačítkom myši na názov vrstvy "skDmosMemberBoundaries" (Opakuj bod 5a).  
+    7b. Kliknite na "Properties" (Opakuj bod 5b). 
+    7c. V kontextovom okienku, na ľavej lište kliknite na tlačidlo "Control Feature Labeling" (žltý štítok abc -> Viď Obr. STEP 1).  
+    7d. V kontextovom okienku, z horného rolovacieho zoznamu vyberiete "Rule-based Labeling" (Viď Obr. STEP 2).  
+    7e. V kontextovom okienku, kliknete na tlačidlo "+" (Viď Obr. STEP 3).  
+    7f. V novotvorenom kontextovom okienku do kolónky "Filter" skopírujete "member_name LIKE 'Mesto%'" (Viď Obr. STEP 4).  
+    7g. V kontextovom okienku do kolónky "Value" skopírujete "member_name" (Viď Obr. STEP 5).  
+    7h. V kontextovom okienku z rolovaciaceho zoznamu "Font" vyberiete hodnotu "Roboto" (Viď Obr. STEP 6).  
+    7i. V kontextovom okienku z rolovaciaceho zoznamu "Style" vyberiete hodnotu "Thin" (Viď Obr. STEP 7).  
+    7k. V kontextovom okienku kliknete tlačidlo "Ok" (Viď Obr. STEP 8).  
+    7l. V kontextovom okienku kliknete tlačidlo "Apply" (Viď Obr. STEP 9) a následne na tlačidlo "Ok" (Viď Obr. STEP 10).  
+    
+![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/AddLabelsCondtional.png?raw=true) 
+
 
