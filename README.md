@@ -64,5 +64,5 @@ Dekanské voľno
     6b. Vo Vašom QGis projekte sa uistite, že z vektorových vrstiev je "skDmosMemberBoundaries" zapnutá (Viď Obr. HINT 1)  stlačíte "Ctrl+Alt+p".  
     6c. Kliknete do prikázoveho riadku (Viď Obr. STEP 1), stlačíte "Ctrl+v" a počkáte kým sa vykonajú príkazy (Viď Obr. HINT 2: Zmena kategorizacie, HINT 3: Zmena farebnosti vrstvy).  
 
-![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/setColorsViaPythonConsole.png?raw=true)  
+![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/SetColorsViaPythonConsole.png?raw=true)  
 
