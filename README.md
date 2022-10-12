@@ -16,8 +16,8 @@ Dekanské voľno
 
 
 
-## CHALLENGE WEEK 3 (12 - 13.10.2022)
-1. Priečinku [data](https://github.com/csabasidor/MDT22/tree/main/data) si stiahnite súbory:
+## CHALLENGE WEEK 3 (12. - 13.10.2022)
+1. Z priečinka [data](https://github.com/csabasidor/MDT22/tree/main/data) si stiahnite súbory:
     a. [skDmosMemberBoundaries.geojson](https://github.com/csabasidor/MDT22/raw/main/data/skDmosMemberBoundaries.geojson)
  2. Otvorte u seba QGis, vytvorte nový projekt pod nazvom 0_dmo_boundaries_id Vasej OOCR (e.g. 0_dmo_boundaries_17).
  3. Pridanie podkladovej mapy OpenStreetMap:
@@ -32,7 +32,7 @@ Dekanské voľno
      3h. Vypnite kontextové okienko (Viď obr. STEP 7).  
       
     
-    
+   ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/AddOpenStreetMapBaseMap.png?raw=true)
 
 
 
