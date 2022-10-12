@@ -60,6 +60,6 @@ Dekanské voľno
  ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/setCRSKrovak.png?raw=true)  
      
 6. Hromadná grafická úprava vektorovej vrstvy (hranice OOCR, pozor CASE SENSITIVE)  
-    6. 
+    6a. Otvoríte súbor [addColorFromAtributeTable.txt](https://raw.githubusercontent.com/csabasidor/MDT22/main/podklady/addColorFromAtributeTable.txt), stlačíte "Ctrl+a" a následne "Ctrl+c"
 
 
