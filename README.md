@@ -19,8 +19,8 @@ Dekanské voľno
 ## CHALLENGE WEEK 3 (12. - 13.10.2022)
 1. Z priečinka [data](https://github.com/csabasidor/MDT22/tree/main/data) si stiahnite súbory:
     a. [skDmosMemberBoundaries.geojson](https://github.com/csabasidor/MDT22/raw/main/data/skDmosMemberBoundaries.geojson)
- 2. Otvorte u seba QGis, vytvorte nový projekt pod nazvom 0_dmo_boundaries_id Vasej OOCR (e.g. 0_dmo_boundaries_17).
- 3. Pridanie podkladovej mapy OpenStreetMap:
+2. Otvorte u seba QGis, vytvorte nový projekt pod nazvom 0_dmo_boundaries_id Vasej OOCR (e.g. 0_dmo_boundaries_17).
+3. Pridanie podkladovej mapy OpenStreetMap:  
       
      3a. V QGise stlačte "Ctrl+Shift+D".  
      3b. V kontextovom okienku kliknite v ľavom zozname na položku "XYZ" (Viď Obr. STEP 1).  
@@ -33,7 +33,8 @@ Dekanské voľno
          
    ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/AddOpenStreetMapBaseMap.png?raw=true)  
    
-  4. Pridanie hraníc OOCR (vektorovej vrstvy):  
+4. Pridanie hraníc OOCR (vektorovej vrstvy):   
+
      4a. V QGise stlačte "Ctrl+Shift+V".  
      4b. Uistite sa, že ste v časti Vector (Viď Obr. STEP 1).  
      4c. Klinkinte na tlačidlo s "...", nachádzajúce sa vpravo od prázdnej kolonky (Viď Obr. STEP 2).  
