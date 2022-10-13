@@ -95,6 +95,7 @@ Dekanské voľno
     
     8g. V kontextovom okienku "DB Manager" kliknete na v ľavom zozname na "GeoPackage" (Viď Obr. STEP 1), následne na "USJ_hranice_0.gpkg" (Viď Obr. STEP 2) a následne v hornej lište na "SQL Window" (Viď Obr. STEP 3).
     8h. Cez "Ctrl+A" a "Ctr+c" skopírujte obsah linku [alterGpkLoadResulLayer.txt](https://raw.githubusercontent.com/csabasidor/MDT22/main/podklady/alterGpkLoadResulLayer.txt) a cez "Ctrl+v" ich prilepíte do kontextového okienka "DB Manager" (Viď Obr. STEP 4), následne postupujte podľa prilepeného textu.  
+    8k. Po spustentí posledného SQL príkazu, "odfajknete" "Load new layer" (STEP 5), Vyberiete "IDN4" ako "Column with unique value" (STEP 6), nastavíte názov vrstvy ako "skRegionsCR" (STEP 7) a stlačíte "Load" (STEP 8).   
     
     ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/copyPasteScript.png?raw=true)  
     
