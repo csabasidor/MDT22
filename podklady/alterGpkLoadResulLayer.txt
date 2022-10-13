@@ -8,9 +8,9 @@
 
 --Tieto SQL príkazy pridajú vrstve "obec_0" 4 nové atribúty.
 --ALTER TABLE obec_0 ADD COLUMN "regionCRID" INTEGER;
---ALTER TABLE obec_0 ADD COLUMN "regionCRName" VARCHAR;
---ALTER TABLE obec_0 ADD COLUMN "polyColorHex" VARCHAR;
---ALTER TABLE obec_0 ADD COLUMN "regionCRNameMap" VARCHAR;
+--ALTER TABLE obec_0 ADD COLUMN "regionCRName" TEXT(30);
+--ALTER TABLE obec_0 ADD COLUMN "polyColorHex" TEXT(30);
+--ALTER TABLE obec_0 ADD COLUMN "regionCRNameMap" TEXT(30);
 
 
 --Tieto SQL príkazy pridajú vrstve 4 novým atribútom príslušné hodnoty.
