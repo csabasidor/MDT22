@@ -39,4 +39,6 @@
 --Tento príkaz je kontrolný, ak jeho výsledkom je tabuľka obsahujúca 21 regiónov CR, tak to máté správne.
 --SELECT DISTINCT("regionCRID"),  "regionCRName" FROM obec_0 ORDER BY "regionCRID"
 
+--Týmto príkazom si načítate novú vrstvu
+SELECT * FROM obec_0
 --Pokračujte ďalej podľa pokynov na GitHube.
