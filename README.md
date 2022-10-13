@@ -101,6 +101,8 @@ Dekanské voľno
     
     8l. Podobne ako v kroku 6 skopírujete obsah súboru [addColorFromAtributeTableSkRegionCR.txt](https://raw.githubusercontent.com/csabasidor/MDT22/main/podklady/addColorFromAtributeTableSkRegionCR.txt) a počkáte kým Vám zbehnú príkazy. Mali by ste mať farebnú kategorizáciu Regionalizácie CR.
     
-
+9. Pridanie nomenklatúry NUTS3 a LAU2 (vrstvy typu gpkg)  
+    9a. V okienku "Browser" (Pozri krok 8c a 8d) kliknete na "USJ_hranice_0.gpkg" (STEP 1) a následne dvojklikom pridáte pridáte vrstvy "kraj_0" a "okres_0" (STEP 2).  
+    9b. Pre vrstvu "okres_0" klikaním nastavíte farbu polygónu a typ ohraničenia (STEP 3 - STEP 10). Následne, až na dve zmeny identicky upravíte aj vrstvu "kraj_0" (Viď Obr. časť kraj_0) 
     
-    
+![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/clickChangeVectorFill.png?raw=true)  
