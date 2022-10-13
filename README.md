@@ -92,7 +92,12 @@ Dekanské voľno
     
     ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/addGpkgOpenDBManager.png?raw=true)  
     
-    8g. Cez "Ctrl+A" a "Ctr+c" skopírujte obsah linku [alterGpkLoadResulLayer.txt](https://raw.githubusercontent.com/csabasidor/MDT22/main/podklady/alterGpkLoadResulLayer.txt)
+    
+    8g. V kontextovom okienku "DB Manager" kliknete na v ľavom zozname na "GeoPackage" (Viď Obr. STEP 1), následne na "USJ_hranice_0.gpkg" (Viď Obr. STEP 2) a následne v hornej lište na "SQL Window" (Viď Obr. STEP 3).
+    8h. Cez "Ctrl+A" a "Ctr+c" skopírujte obsah linku [alterGpkLoadResulLayer.txt](https://raw.githubusercontent.com/csabasidor/MDT22/main/podklady/alterGpkLoadResulLayer.txt) a cez "Ctrl+v" ich prilepíte do kontextového okienka "DB Manager" (Viď Obr. STEP 4), následne postupujte podľa prilepeného textu.  
+    
+    ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/copyPasteScript.png?raw=true)  
+    
 
     
     
