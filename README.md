@@ -106,3 +106,10 @@ Dekanské voľno
     9b. Pre vrstvu "okres_0" klikaním nastavíte farbu polygónu a typ ohraničenia (STEP 3 - STEP 10). Následne, až na dve zmeny identicky upravíte aj vrstvu "kraj_0" (Viď Obr. časť kraj_0) 
     
 ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/clickChangeVectorFill.png?raw=true)  
+
+
+
+10. Tvorba tlačovej zostavy a export mapy
+comming soon
+
+![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/0_dmo_borders.png?raw=true)  
