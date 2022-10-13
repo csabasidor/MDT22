@@ -99,6 +99,8 @@ Dekanské voľno
     
     ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/copyPasteScript.png?raw=true)  
     
+    8l. Podobne ako v kroku 6 skopírujete obsah súboru [addColorFromAtributeTableSkRegionCR.txt](https://raw.githubusercontent.com/csabasidor/MDT22/main/podklady/addColorFromAtributeTableSkRegionCR.txt) a počkáte kým Vám zbehnú príkazy. Mali by ste mať farebnú kategorizáciu Regionalizácie CR.
+    
 
     
     
