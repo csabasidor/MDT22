@@ -1,0 +1,29 @@
+#SOURCE: https://gis.stackexchange.com/questions/371465/use-colums-in-attribute-table-to-set-colors-and-line-thickness-directly-automati
+
+layer = iface.activeLayer()
+
+category_column = 'regionCRNameMap' #CHANGE 'RegionCRnameMap' ACCORDING TO YOUR DATA SET
+rgb_column = 'polyColorHex' #CHANGE 'polyColorHex' ACCORDING TO YOUR DATA SET
+
+color = {f[category_column]:f[rgb_column] for f in layer.getFeatures()} #Store all colors in a dictionary
+
+fni = layer.fields().indexFromName(category_column)
+unique_values = list(layer.dataProvider().uniqueValues(fni))
+categories = []
+for unique_value in unique_values:
+    symbol = QgsSymbol.defaultSymbol(layer.geometryType())
+    layer_style = {}
+    layer_style['color'] = color[unique_value] #Read colors from the dictionary
+    layer_style['color_border'] = '#FFFFFF'
+    symbol_layer = QgsSimpleFillSymbolLayer.create(layer_style)
+    symbol.changeSymbolLayer(0, symbol_layer)
+    category = QgsRendererCategory(unique_value, symbol, str(unique_value))
+    categories.append(category)
+    
+
+renderer = QgsCategorizedSymbolRenderer(category_column, categories)
+layer.setRenderer(renderer)
+layer.triggerRepaint()
+layer.setOpacity(0.3)
+
+
