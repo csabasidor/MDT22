@@ -90,7 +90,7 @@ Dekanské voľno
     8e. Označíte stiahnutý súbor "USJ_hranice_0.gpkg" (Viď Obr. STEP 6) a otvoríte ho (Viď Obr. STEP 7).  
     8f. Na hornej lište kliknete na "Database" (Viď Obr. STEP 8) a následne na "DB Manage"(Viď Obr. STEP 9).
     
-    ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/addGpkgOpenDBManager.png.png?raw=true) 
+    ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/addGpkgOpenDBManager.png?raw=true) 
 
     
     
