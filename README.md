@@ -17,6 +17,7 @@ Dekanské voľno
 
 
 ## CHALLENGE WEEK 3 (12. - 13.10.2022)
+0. Ak sa Vám zobrazí súbor v surovom formáte, stlačte "Ctrl+a", následne "Ctrl+c". Otvorte prázdny súbor v poznámkovom bloku a stlačte "Ctrl+c". Uložte súbor s príslušnou koncovkou a vo formáte "Všetky typy/All types" s encodingom UTF-8. 
 1. Z priečinka [data](https://github.com/csabasidor/MDT22/tree/main/data) si stiahnite súbory:
     a. [skDmosMemberBoundaries.geojson](https://github.com/csabasidor/MDT22/blob/main/data/skDmosMemberBoundaries.geojson)
     b. 
