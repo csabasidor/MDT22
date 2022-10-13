@@ -112,4 +112,4 @@ Dekanské voľno
 10. Tvorba tlačovej zostavy a export mapy
 comming soon
 
-![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/0_dmo_borders.png?raw=true)  
+![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/0_dmo_bordersb.png?raw=true)  
