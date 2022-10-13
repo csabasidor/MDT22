@@ -25,6 +25,6 @@ for unique_value in unique_values:
 renderer = QgsCategorizedSymbolRenderer(category_column, categories)
 layer.setRenderer(renderer)
 layer.triggerRepaint()
-layer.setOpacity(0.65)
+layer.setOpacity(0.7)
 
 
