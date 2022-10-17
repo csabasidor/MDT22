@@ -107,8 +107,8 @@ Dekanské voľno
     
 ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/clickChangeVectorFill.png?raw=true)  
 
-10.Tvorba vonkajších hraníc OOCR   
-    10a. Otvoríte "DM Manager" (Pozri 8f), kliknete v vľavom zozname na položku "Virtual Layer" a následne na "Project Layers", otvoríte "SQL Window" (Viď 8g).
+10.Tvorba vonkajších hraníc OOCR     
+    10a. Otvoríte "DM Manager" (Pozri 8f), kliknete v vľavom zozname na položku "Virtual Layer" a následne na "Project Layers", otvoríte "SQL Window" (Viď 8g).  
     10b. Do príkazového riadku prilepíte príkaz a prepíšete hodnotu dmo_id podľa svojho zadania.  
      
         SELECT st_union(geometry) FROM "skRegionsCR" WHERE dmo_id = 32;    
