@@ -115,10 +115,17 @@ Dekanské voľno
     
     
     
-10c. Po spustení príkazu, podpobne ako v kroku 8k, pridáte vytvorenú vrstvu do mapy.  
-10d. Podobne ako v krokoch 9a,b nastavte pre vytvorenú vrstvu transparentnú náplň a ohraničenie červenej farby o hrúbke 0.46.   
+    10c. Po spustení príkazu, podpobne ako v kroku 8k, pridáte vytvorenú vrstvu do mapy.  
+    10d. Podobne ako v krokoch 9a,b nastavte pre vytvorenú vrstvu transparentnú náplň a ohraničenie červenej farby o hrúbke 0.46.  
 
-11. Tvorba tlačovej zostavy a export mapy
-comming soon
+11. Základná interpretácia mapy  
+    11a. Skopírujte obsah súboru [exportBoundariesBaseInfo.sql](https://raw.githubusercontent.com/csabasidor/MDT22/main/podklady/exportBoundariesBaseInfo.sql) a prilepte ho do prázdneho Poznámkového bloku. 
+    11b. S kurzorom sa kliknite do prvého riadku, stlačte "Ctrl+H". V kontextovom okienku, do kolónky "Find what" napíšte 32 a do kolónky "Replace with" napíšte číslo Vašej OOCR, kliknite na "Replace all".  
+    11c. Opakujte krok 10a.  
+    11d. Skopírujte obsah príkazu a prilepte ho do rozhrania "SQL Window", spustite príkaz (Vyčkajte približne 45 sec na dokončenie príkazu).  
+    11e. Označte celý vytvorený stĺpec a skopírujte si ho do wordu. Overte či vygenerované poznámky sú v súlade s Vašou mapou.
+
+12. Tvorba tlačovej zostavy a export mapy  
+    Ukážka na cvičení.
 
 ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/0_dmo_bordersb.png?raw=true)  
