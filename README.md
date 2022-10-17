@@ -88,7 +88,7 @@ Dekanské voľno
     8c. Vo svojom Qgis projekte, na hornej lište kliknete na "View" (Viď Obr. STEP 1), v konextovom zozname kliknete na "Panels" (Viď Obr. STEP 2), odkliknete "Browser" (Viď Obr. STEP 3).  
     8d. V okienku "Browser" kliknete pravým tlačidlom myši na "GeoPackage" (Viď Obr. STEP 4) a následne na "New Connection" (Viď Obr. STEP 5).  
     8e. Označíte stiahnutý súbor "USJ_hranice_0.gpkg" (Viď Obr. STEP 6) a otvoríte ho (Viď Obr. STEP 7).  
-    8f. Na hornej lište kliknete na "Database" (Viď Obr. STEP 8) a následne na "DB Manage"(Viď Obr. STEP 9).
+    8f. Na hornej lište kliknete na "Database" (Viď Obr. STEP 8) a následne na "DB Manager"(Viď Obr. STEP 9).
     
     ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/addGpkgOpenDBManager.png?raw=true)  
     
@@ -107,9 +107,16 @@ Dekanské voľno
     
 ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/clickChangeVectorFill.png?raw=true)  
 
-
-
-10. Tvorba tlačovej zostavy a export mapy
+10.Tvorba vonkajších hraníc OOCR   
+    10a. Otvoríte "DM Manager" (Pozri 8f), kliknete v vľavom zozname na položku "Virtual Layer" a následne na "Project Layers", otvoríte "SQL Window" (Viď 8g).
+    10b. Do príkazového riadku prilepíte príkaz a prepíšete hodnotu dmo_id podľa svojho zadania. 
+                SELECT st_union(geometry) 
+                FROM "skRegionsCR"
+                WHERE dmo_id = 32  
+                
+    10c. Po spustení príkazu, podpobne ako v kroku 8k, pridáte vytvorenú vrstvu do mapy.
+    
+11. Tvorba tlačovej zostavy a export mapy
 comming soon
 
 ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/0_dmo_bordersb.png?raw=true)  
