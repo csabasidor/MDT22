@@ -112,9 +112,9 @@ Dekanské voľno
     10b. Do príkazového riadku prilepíte príkaz a prepíšete hodnotu dmo_id podľa svojho zadania.  
      
         SELECT st_union(geometry) FROM "skRegionsCR" WHERE dmo_id = 32;    
+            
     
-    
-    
+
     10c. Po spustení príkazu, podpobne ako v kroku 8k, pridáte vytvorenú vrstvu do mapy.  
     10d. Podobne ako v krokoch 9a,b nastavte pre vytvorenú vrstvu transparentnú náplň a ohraničenie červenej farby o hrúbke 0.46.  
 
