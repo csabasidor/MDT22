@@ -120,7 +120,7 @@ Dekanské voľno
 
 11. Základná interpretácia mapy  
     11a. Skopírujte obsah súboru [exportBoundariesBaseInfo.sql](https://raw.githubusercontent.com/csabasidor/MDT22/main/podklady/exportBoundariesBaseInfo.sql) a prilepte ho do prázdneho Poznámkového bloku. 
-    11b. S kurzorom sa kliknite do prvého riadku, stlačte "Ctrl+H". V kontextovom okienku, do kolónky "Find what" napíšte 32 a do kolónky "Replace with" napíšte číslo Vašej OOCR, kliknite na "Replace all".  
+    11b. S kurzorom sa kliknite do prvého riadku, stlačte "Ctrl+H". V kontextovom okienku, do kolónky "Find what" napíšte 32 a do kolónky "Replace with" napíšte číslo Vašej OOCR, kliknite na "Replace all".    
     11c. Opakujte krok 10a.  
     11d. Skopírujte obsah príkazu a prilepte ho do rozhrania "SQL Window", spustite príkaz (Vyčkajte približne 45 sec na dokončenie príkazu).  
     11e. Označte celý vytvorený stĺpec a skopírujte si ho do wordu. Overte či vygenerované poznámky sú v súlade s Vašou mapou.
