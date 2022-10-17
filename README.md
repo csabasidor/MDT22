@@ -111,7 +111,7 @@ Dekanské voľno
     10a. Otvoríte "DM Manager" (Pozri 8f), kliknete v vľavom zozname na položku "Virtual Layer" a následne na "Project Layers", otvoríte "SQL Window" (Viď 8g).
     10b. Do príkazového riadku prilepíte príkaz a prepíšete hodnotu dmo_id podľa svojho zadania.  
      
-        <code>SELECT st_union(geometry) FROM "skRegionsCR" WHERE dmo_id = 32;</code>    
+        SELECT st_union(geometry) FROM "skRegionsCR" WHERE dmo_id = 32;    
     
     
     
