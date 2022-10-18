@@ -21,7 +21,7 @@ Dekanské voľno
 1. Z priečinka [data](https://github.com/csabasidor/MDT22/tree/main/data) si stiahnite súbory:
     a. [skDmosMemberBoundaries.geojson](https://github.com/csabasidor/MDT22/blob/main/data/skDmosMemberBoundaries.geojson)
     b. 
-2. Otvorte u seba QGis, vytvorte nový projekt pod nazvom 0_dmo_boundaries_id Vasej OOCR (e.g. 0_dmo_boundaries_17).
+2. Otvorte u seba QGis, vytvorte nový projekt pod nazvom 0_dmo_boundaries_id Vasej OOCR (e.g. 0_dmo_boundaries_17.qgz). V tomto ".qgz" projekte tvoríte mapy z jednotlivých vrstiev.
 3. Pridanie podkladovej mapy OpenStreetMap:  
       
      3a. V QGise stlačte "Ctrl+Shift+D".  
