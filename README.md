@@ -129,18 +129,18 @@ Dekanské voľno
 #### Podiel DMO na registrovanej ekonomike CR územia destinácie
 1. Stiahnite si súbor [mdtDMOsRegisteredEconomy2021.xlsx](https://github.com/csabasidor/MDT22/blob/main/data/mdtDMOsRegisteredEconomy2021.xlsx).
 2. Meta údaje k datasetu  
-    dmo_id - Identifikátor OOCR
-    region_name - Názov VÚC  
-    district_name - Názov okresu  
-    municipality_id - Identifikátor obce    
-    municipality_name - Názov obce  
-    nace_name_sk - Názov NACE  
-    legal_form_name_sk - Názov právnej formy    
-    ownership_type_name_sk - Názov formy vlastníctva  
-    eu_tour - Kategória ekonomiky CR podľa metodiky Eurostat  
-    unwto_oecd_tour  - Kategória ekonomiky CR podľa metodiky UNWTO/OECD    
-    n  
-    min_emp  
-    max_emp
+    **dmo_id** - Identifikátor OOCR
+    **region_name** - Názov VÚC  
+    **district_name** - Názov okresu  
+    **municipality_id** - Identifikátor obce    
+    **municipality_name** - Názov obce  
+    **nace_name_sk** - Názov NACE  
+    **legal_form_name_sk** - Názov právnej formy    
+    **ownership_type_name_sk** - Názov formy vlastníctva  
+    **eu_tour** - Kategória ekonomiky CR podľa metodiky Eurostat  
+    **unwto_oecd_tour**  - Kategória ekonomiky CR podľa metodiky UNWTO/OECD    
+    **n** - Počet živých účtovných jednotiek 
+    **min_emp** - Minimálna možná zamestnanosť
+    **max_emp** - Maximálna možná zamestnanosť
 
 
