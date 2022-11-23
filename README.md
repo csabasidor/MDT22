@@ -127,5 +127,20 @@ Dekanské voľno
 
 ## CHALLENGE WEEK 9 (23. - 24.11.2022) 
 #### Podiel DMO na registrovanej ekonomike CR územia destinácie
-1. [mdtDMOsRegisteredEconomy2021.xlsx](https://github.com/csabasidor/MDT22/blob/main/data/mdtDMOsRegisteredEconomy2021.xlsx)
+1. Stiahnite si súbor [mdtDMOsRegisteredEconomy2021.xlsx](https://github.com/csabasidor/MDT22/blob/main/data/mdtDMOsRegisteredEconomy2021.xlsx).
+2. Meta údaje k datasetu
+    dmo_id	
+    region_name  
+    district_name  
+    municipality_id  
+    municipality_name  
+    nace_name_sk  
+    legal_form_name_sk  
+    ownership_type_name_sk  
+    eu_tour  
+    unwto_oecd_tour  
+    n  
+    min_emp  
+    max_emp
+
 
