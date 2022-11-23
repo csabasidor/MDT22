@@ -128,7 +128,7 @@ Dekanské voľno
 ## CHALLENGE WEEK 9 (23. - 24.11.2022) 
 #### Podiel DMO na registrovanej ekonomike CR územia destinácie
 1. Stiahnite si súbor [mdtDMOsRegisteredEconomy2021.xlsx](https://github.com/csabasidor/MDT22/blob/main/data/mdtDMOsRegisteredEconomy2021.xlsx).
-2. Meta údaje k datasetu  
+2. Meta údaje k datasetu:  
     **dmo_id** - Identifikátor OOCR
     **region_name** - Názov VÚC  
     **district_name** - Názov okresu  
@@ -141,6 +141,13 @@ Dekanské voľno
     **unwto_oecd_tour**  - Kategória ekonomiky CR podľa metodiky UNWTO/OECD    
     **n** - Počet živých účtovných jednotiek 
     **min_emp** - Minimálna možná zamestnanosť
-    **max_emp** - Maximálna možná zamestnanosť
+    **max_emp** - Maximálna možná zamestnanosť  
+ 3. Prostredníctvom hodnoty **dmo_id** vyberte údaje za svoju OOCR a odpovedzte na otázky:
+    a. Koľko podnikov tvorí registrovanú ekonomiku územia destinácie ?
+    b. Aká je minimálna a maximálna možná zamestnanosť v území desitnácie ?
+    c. Určite TOP 10 odvetví podľa NACE podľa počtu podnikov.
+    d. Určite TOP 10 odvetví podľa NACE podľa minimálnej možnej zamestnanosti.
+    e. Určite TOP 10 odvetví podľa NACE podľa maximálnej možnej zamestnanosti.
+    
 
 
