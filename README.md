@@ -124,3 +124,7 @@ Dekanské voľno
     Ukážka na cvičení.
 
 ![alt text](https://github.com/csabasidor/MDT22/blob/main/podklady/0_dmo_bordersb.png?raw=true)  
+
+## CHALLENGE WEEK 9 (23. - 24.11.2022) Podiel DMO na registrovanej ekonomike CR územia destinácie
+1. 
+
