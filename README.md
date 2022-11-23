@@ -158,6 +158,8 @@ Dekanské voľno
     **TYP C**: Tabuľka  
   5. Stiahnite si súbor [skDmoMembersAll22.xlsx](https://github.com/csabasidor/MDT22/blob/main/data/skDmoMembersAll22.xlsx).
   6. Za predpokladu, že každý člen OOCR patrí do registrovanej ekonomiky CR aj podľa metodiky Eurostat a UNWTO/OECD (Mestá a Obce a neberte do úvahy), aký je podiel členskej základne na početnosti registrovanej ekonomiky CR ? (Odpovede typu: A)  
+
+**Vaše odpovede zdokumentujte do súboru  word.**
     
 
 
