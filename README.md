@@ -140,14 +140,22 @@ Dekanské voľno
     **eu_tour** - Kategória ekonomiky CR podľa metodiky Eurostat  
     **unwto_oecd_tour**  - Kategória ekonomiky CR podľa metodiky UNWTO/OECD    
     **n** - Počet živých účtovných jednotiek 
-    **min_emp** - Minimálna možná zamestnanosť
+    **min_emp** - Minimálna možná zamestnanosť  
     **max_emp** - Maximálna možná zamestnanosť  
- 3. Prostredníctvom hodnoty **dmo_id** vyberte údaje za svoju OOCR a odpovedzte na otázky:
-    a. Koľko podnikov tvorí registrovanú ekonomiku územia destinácie ?
-    b. Aká je minimálna a maximálna možná zamestnanosť v území desitnácie ?
-    c. Určite TOP 10 odvetví podľa NACE podľa počtu podnikov.
-    d. Určite TOP 10 odvetví podľa NACE podľa minimálnej možnej zamestnanosti.
-    e. Určite TOP 10 odvetví podľa NACE podľa maximálnej možnej zamestnanosti.
+ 3. Prostredníctvom hodnoty **dmo_id** vyberte údaje za svoju OOCR a odpovedzte na otázky/úlohy:
+    a. Koľko podnikov tvorí registrovanú ekonomiku územia destinácie ? (Odpovede typu: A)  
+    b. Aká je minimálna a maximálna možná zamestnanosť v území desitnácie ? (Odpovede typu: A)  
+    c. Určite TOP 10 odvetví podľa NACE podľa počtu podnikov. (Odpovede typu: B)  
+    d. Určite TOP 10 odvetví podľa NACE podľa minimálnej možnej zamestnanosti. (Odpovede typu: A, C)   
+    e. Určite TOP 10 odvetví podľa NACE podľa maximálnej možnej zamestnanosti. (Odpovede typu: A, C)   
+    f. Určite početnosť, minimálnu zamestnanosť, maximálnu zamestnanosť registrovanej ekonomiky CR v zmysle katgórií metodiky Eurostat (Odpovede typu: A, B)  
+    g. Určite početnosť, minimálnu zamestnanosť, maximálnu zamestnanosť registrovanej ekonomiky CR v zmysle katgórií metodiky UNWTO/OECD (Odpovede typu: A, B)
+    h. Aký je podiel registrovanej ekonomiky CR na početnosti podnikov, minimálnej a maximálne zamestnanosti podľa metodiky Eurostat celkovej registrovanej ekonomiky ? Je významný ? (Odpovede typu: A)  
+    i. Aký je podiel registrovanej ekonomiky CR na početnosti podnikov, minimálnej a maximálne zamestnanosti podľa metodiky UNWTO/OECD celkovej registrovanej ekonomiky ? Je významný ? (Odpovede typu: A)  
+ 4. Typy odpovedí:
+    **TYP A**: Komentár = súvislé vety  
+    **TYP B**: Graf  
+    **TYP C**: Tabuľka  
     
 
 
