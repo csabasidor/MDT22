@@ -161,10 +161,13 @@ Dekanské voľno
 
 ## CHALLENGE WEEK 12 (14. - 15.12.2022) 
 #### Základné indikátory vo vzťahu k 91/2010
-1. Stiahnite si súbor [mdtDMOsRegisteredEconomy2021.xlsx](https://github.com/csabasidor/MDT22/blob/main/data/v_cr3803mr_00_00_00_sk20221208120628.xlsx).  
+1. Stiahnite si súbor [v_cr3803mr_00_00_00_sk20221208120628.xlsx](https://github.com/csabasidor/MDT22/blob/main/data/v_cr3803mr_00_00_00_sk20221208120628.xlsx).  
 2. Na jednotlivých hárkoch je možné nájsť šablóny pre kapitolu 4.2 (Graf 6 - 9, viď [MDT_template_report_v22.docx](https://github.com/csabasidor/MDT22/blob/main/podklady/MDT_template_report_v22.docx)). Postačí použiť filter v bunkách B1:B2 a cez ctrl+c a ctrl+v prilepiť údaje do tabuľky, z ktorej čerpá graf.  
+3. Stiahnite si súbor [v_cr3804mr_00_00_00_sk20221208161608.xlsx](https://github.com/csabasidor/MDT22/blob/main/data/v_cr3804mr_00_00_00_sk20221208161608.xlsx).  
+4.Na jednotlivých hárkoch je možné nájsť šablóny pre kapitolu 4.2 (Graf 10, viď [MDT_template_report_v22.docx](https://github.com/csabasidor/MDT22/blob/main/podklady/MDT_template_report_v22.docx)). Postačí upraviť paramtere kontigenčnej tabuľky a cez ctrl+c a ctrl+v prilepiť údaje do tabuliek, z ktorých čerpá graf. 
 
-**Vaše odpovede zdokumentujte do súboru  [MDT_template_report_v22.docx](https://github.com/csabasidor/MDT22/blob/main/podklady/MDT_template_report_v22.docx).**
+**Vaše odpovede zdokumentujte do súboru  [MDT_template_report_v22.docx](https://github.com/csabasidor/MDT22/blob/main/podklady/MDT_template_report_v22.docx).**  
+
     
 
 
