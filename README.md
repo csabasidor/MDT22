@@ -168,6 +168,7 @@ Dekanské voľno
 
 **Vaše odpovede zdokumentujte do súboru  [MDT_template_report_v22.docx](https://github.com/csabasidor/MDT22/blob/main/podklady/MDT_template_report_v22.docx).**  
 
+**Záväzný termín odovzdania 05.01.2023.**
     
 
 
