@@ -159,6 +159,11 @@ Dekanské voľno
   5. Stiahnite si súbor [skDmoMembersAll22.xlsx](https://github.com/csabasidor/MDT22/blob/main/data/skDmoMembersAll22.xlsx).
   6. Za predpokladu, že každý člen OOCR patrí do registrovanej ekonomiky CR aj podľa metodiky Eurostat a UNWTO/OECD (Mestá a Obce a neberte do úvahy), aký je podiel členskej základne na početnosti registrovanej ekonomiky CR ? (Odpovede typu: A)  
 
+## CHALLENGE WEEK 12 (14. - 15.12.2022) 
+#### Základné indikátory vo vzťahu k 91/2010
+1. Stiahnite si súbor [mdtDMOsRegisteredEconomy2021.xlsx](https://github.com/csabasidor/MDT22/blob/main/data/v_cr3803mr_00_00_00_sk20221208120628.xlsx).  
+2. Na jednotlivých hárkoch je možné nájsť šablóny pre kapitolu 4.2 (Graf 6 - 9, viď [MDT_template_report_v22.docx](https://github.com/csabasidor/MDT22/blob/main/podklady/MDT_template_report_v22.docx)). Postačí použiť filter v bunkách B1:B2 a cez ctrl+c a ctrl+v prilepiť údaje do tabuľky, z ktorej čerpá graf.  
+
 **Vaše odpovede zdokumentujte do súboru  [MDT_template_report_v22.docx](https://github.com/csabasidor/MDT22/blob/main/podklady/MDT_template_report_v22.docx).**
     
 
